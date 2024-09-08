@@ -47,7 +47,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For any questions or suggestions, please open an issue or contact the repository owner.
-
----
-
-Feel free to customize this README further to fit your project's specific details and requirements.
+@uutu on discord and @tahagorme on telegram
