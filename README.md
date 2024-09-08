@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/09701f73-ae0d-4319-90d5-be605fbf2121
 if you would like to purchase the promo generator, contact me on telegram @tahagorme or on discord @uutu.
 no time wasters please, only dm if you are interested.
 
-
+NOTE: The version on github only generates chess.com accounts and not discord promo links. For discord promo links, you will need to purchase the generator
 
 
 ## Features
