@@ -1,4 +1,5 @@
-
+// this only generates chess.com accounts and not nitro codes
+// for nitro code generator, contact me on discord @uutu or on telegram @tahagorme
 
 const { connect } = require("puppeteer-real-browser")
 const fs = require('fs');
