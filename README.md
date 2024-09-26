@@ -5,8 +5,9 @@ A Discord X Chess.com promo generator for the latest chess.com and Discord Nitro
 ## Purchase Private Version (v2, completely request based)
 I just created a private version thats completely request based and fast asf.
 **if you would like to purchase the promo generator, contact me on telegram @tahagorme or on discord @uutu.
-no time wasters please, only dm if you are interested.**
-https://discord.com/invite/bEP5BkyZ
+no time wasters please, only dm if you are interested in purchasing**
+
+https://discord.gg/AcnHWra4Ya
 
 https://github.com/user-attachments/assets/9c74c660-70e8-4bae-8338-ec652008185f
 
